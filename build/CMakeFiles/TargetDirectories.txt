@@ -1,0 +1,12 @@
+/Users/amruthavarshini/filesearch_project/build/CMakeFiles/test.dir
+/Users/amruthavarshini/filesearch_project/build/CMakeFiles/edit_cache.dir
+/Users/amruthavarshini/filesearch_project/build/CMakeFiles/rebuild_cache.dir
+/Users/amruthavarshini/filesearch_project/build/src/CMakeFiles/filesearch_core.dir
+/Users/amruthavarshini/filesearch_project/build/src/CMakeFiles/filesearch.dir
+/Users/amruthavarshini/filesearch_project/build/src/CMakeFiles/test.dir
+/Users/amruthavarshini/filesearch_project/build/src/CMakeFiles/edit_cache.dir
+/Users/amruthavarshini/filesearch_project/build/src/CMakeFiles/rebuild_cache.dir
+/Users/amruthavarshini/filesearch_project/build/tests/CMakeFiles/filesearch_test.dir
+/Users/amruthavarshini/filesearch_project/build/tests/CMakeFiles/test.dir
+/Users/amruthavarshini/filesearch_project/build/tests/CMakeFiles/edit_cache.dir
+/Users/amruthavarshini/filesearch_project/build/tests/CMakeFiles/rebuild_cache.dir

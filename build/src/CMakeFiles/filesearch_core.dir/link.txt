@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfilesearch_core.a CMakeFiles/filesearch_core.dir/indexer.cpp.o CMakeFiles/filesearch_core.dir/searcher.cpp.o
+/usr/bin/ranlib libfilesearch_core.a

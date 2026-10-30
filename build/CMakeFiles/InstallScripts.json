@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/amruthavarshini/filesearch_project/build/cmake_install.cmake",
+		"/Users/amruthavarshini/filesearch_project/build/src/cmake_install.cmake",
+		"/Users/amruthavarshini/filesearch_project/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
